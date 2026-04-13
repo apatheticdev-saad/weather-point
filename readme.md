@@ -48,4 +48,7 @@ Since the API key is kept private for security, you will need to set up a config
 The `config.js` file is included in the `.gitignore` to prevent the API key from being published to GitHub. This is a best practice for protecting sensitive credentials in frontend projects.
 
 ---
-Developed with ❤️ by [Saad](https://github.com/apatheticdev-saad)
+
+## 👤 Author
+
+**Saad** GitHub: [@apatheticdev-saad](https://github.com/apatheticdev-saad)
