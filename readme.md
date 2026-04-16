@@ -52,6 +52,6 @@ The `config.js` file is included in the `.gitignore` to prevent the API key from
 
 
 
-## 👤 Author
+## 👤 Author/Creator
 
 **Saad** GitHub: [@apatheticdev-saad](https://github.com/apatheticdev-saad)
