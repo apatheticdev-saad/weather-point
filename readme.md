@@ -45,8 +45,7 @@ Since the API key is kept private for security, you will need to set up a config
     Open `index.html` in your favorite browser!
 
 ## 📝 Note on Security
-The `config.js` file is included in the `.gitignore` to prevent the API key from being published to GitHub. This is a best practice for protecting sensitive credentials in frontend projects. Hmmm
-
+The `config.js` file is included in the `.gitignore` to prevent the API key from being published to GitHub. This is a best practice for protecting sensitive credentials in frontend projects.
 
 
 ---
@@ -56,3 +55,4 @@ The `config.js` file is included in the `.gitignore` to prevent the API key from
 ## 👤 Author
 
 **Saad** GitHub: [@apatheticdev-saad](https://github.com/apatheticdev-saad)
+dm if required
